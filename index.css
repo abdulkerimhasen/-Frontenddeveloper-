@@ -672,9 +672,10 @@ span {
 }
 
 .contact form .input-box .input-field {
+    height: max-content;
     position: relative;
     width: 49%;
-    margin: 0;
+    margin-bottom: 1rem;
 }
 
 .contact form .input-box .input-field input,
